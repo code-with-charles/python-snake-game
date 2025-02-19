@@ -1,0 +1,4 @@
+#pip install the following
+
+pygame
+random
